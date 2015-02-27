@@ -1,0 +1,8 @@
+{
+    "shell-version": ["3.14"], 
+    "uuid": "tv-control@josh.slashdev.ca", 
+    "name": "TV Control", 
+    "original-author": "Josh Kropf",
+    "url": "http://slashdev.ca", 
+    "description": "Control LG TV through serial port"
+}
